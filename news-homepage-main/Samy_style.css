@@ -1,11 +1,17 @@
+section {
+    border: red solid 2px;
+    height: 100px;
+}
+
 .section__samy {
-    width: 66%;
+    width: 100%;
 }
 
 .section__himed {
-    width: 33%;
+    width: 66%;
+    border: black 2px solid;
 }
 
 .section__mouss {
-    width: 100%;
+    width: 33%;
 }
